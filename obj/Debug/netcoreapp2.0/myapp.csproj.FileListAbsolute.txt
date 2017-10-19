@@ -1,0 +1,10 @@
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\bin\Debug\netcoreapp2.0\myapp.deps.json
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\bin\Debug\netcoreapp2.0\myapp.runtimeconfig.json
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\bin\Debug\netcoreapp2.0\myapp.runtimeconfig.dev.json
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\bin\Debug\netcoreapp2.0\myapp.dll
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\bin\Debug\netcoreapp2.0\myapp.pdb
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\obj\Debug\netcoreapp2.0\myapp.csproj.CoreCompileInputs.cache
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfoInputs.cache
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfo.cs
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\obj\Debug\netcoreapp2.0\myapp.dll
+c:\Users\djsty\OneDrive\Documentos\Cursos\Angular2\AspNetCore\myapp\obj\Debug\netcoreapp2.0\myapp.pdb
