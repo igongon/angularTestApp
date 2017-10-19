@@ -13284,11 +13284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\djsty\\OneDrive\\Documentos\\Cursos\\Angular2\\AspNetCore\\myapp\\myapp.csproj",
+      "projectUniqueName": "C:\\Users\\djsty\\OneDrive\\Documentos\\Cursos\\Angular2\\AspNetCore\\myapp\\myapp.csproj",
       "projectName": "myapp",
-      "projectPath": "c:\\Users\\djsty\\OneDrive\\Documentos\\Cursos\\Angular2\\AspNetCore\\myapp\\myapp.csproj",
+      "projectPath": "C:\\Users\\djsty\\OneDrive\\Documentos\\Cursos\\Angular2\\AspNetCore\\myapp\\myapp.csproj",
       "packagesPath": "C:\\Users\\djsty\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\djsty\\OneDrive\\Documentos\\Cursos\\Angular2\\AspNetCore\\myapp\\obj\\",
+      "outputPath": "C:\\Users\\djsty\\OneDrive\\Documentos\\Cursos\\Angular2\\AspNetCore\\myapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

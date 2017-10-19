@@ -24,6 +24,7 @@ namespace myapp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddSingleton<IConfiguration>(Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -37,10 +38,14 @@ namespace myapp
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseDefaultFiles(new DefaultFilesOptions { 
+                DefaultFileNames = new List<string>() { "index.html" } 
+            });
 
-            app.UseDefaultFiles();
-            app.UseStaticFiles();
-            app.UseMvc();
+            app.UseStaticFiles();   
+            app.UseMvc(routes => {
+                routes.MapRoute("default", "{controller=Home}/{action=Index}");
+            });
         }
     }
 }
